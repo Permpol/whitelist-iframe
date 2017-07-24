@@ -8,3 +8,4 @@ whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.codepen\.io\/.+/i);
 whiteListIframe(/^(http?:)?\/\/www\.everycircuit\.com\/circuit\/.+/i);
+whiteListIframe(/^(http?:)?\/\/www\.everycircuit\.com\/embed\/.+/i);

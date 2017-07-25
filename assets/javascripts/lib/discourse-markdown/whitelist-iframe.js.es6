@@ -7,4 +7,4 @@ whiteListIframe(/^(https?:)?\/\/www\.youtube\.com\/embed\/.+/i);
 whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.codepen\.io\/.+/i);
-whiteListIframe(/^(http?:)?\/\/everycircuit\.com\/embed\/.+/i);
+whiteListIframe(/^(http?:)?\/\/www\.everycircuit\.com\/embed\/[0-9]\/.+/i);

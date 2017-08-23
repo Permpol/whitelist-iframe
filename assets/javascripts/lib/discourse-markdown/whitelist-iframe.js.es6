@@ -10,4 +10,4 @@ whiteListIframe(/^(https?:)?\/\/www\.codepen\.io\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.production-assets\.codepen\.io\/.+/i);
 whiteListIframe(/^(https?:)?\/\/everycircuit\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/circuits\.io\/.+/i);
-whiteListIframe(/^(https?:)?\/\/tinkercad\.com\/.+/i);
+whiteListIframe(/^(https?:)?\/\/tinkercad\.com\/things\/.+/i);
